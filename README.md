@@ -4,7 +4,6 @@
 **RaksRaks/RaksRaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on NedBank "YES Programme" from 01 June 2025 - 31 July 2025
 - 🌱 I’m currently learning Deep Learning and Feature Engineering
 - 👯 I’m looking to collaborate on Modular Programming and teamwork
 - 🤔 I’m looking for help with Socializing
